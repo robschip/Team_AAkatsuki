@@ -6,5 +6,4 @@ weather_hourly_chicago.csv
 .ipynb_checkpoints/step3_clustering-checkpoint.ipynb
 .ipynb_checkpoints/step4_predictive_analytics-checkpoint.ipynb
 crossvalidation error .png
-reihenfolge_fehler.jpg
 processed_dataframe.csv
